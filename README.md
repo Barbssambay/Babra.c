@@ -9,7 +9,7 @@ The article **Streptococcus pneumoniae** can be found on [https://www.ncbi.nlm.n
 ----
 1. Pathophisiology
 2. Toxicokinetics
-3. Treatment/management
+3. Treatment/management, etc...
 
    **My Hobbies**
    - reading

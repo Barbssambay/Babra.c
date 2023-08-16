@@ -20,6 +20,10 @@ The article **Streptococcus pneumoniae** can be found [here](https://www.ncbi.nl
      
  Galileo Galilei once said:
  >"In a questions of science, the authority of a thousand is not worth the humble reason of a single individual."
-  
+
+
+
+`highlight`
+~strike~
 
   
